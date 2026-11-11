@@ -1,4 +1,4 @@
 {
- "data": "{\"k\":\"livetik-kendali\",\"seq\":4,\"at\":1794404813357,\"revoked\":[],\"min\":\"\",\"update\":{\"version\":\"0.4.3\",\"url\":\"https://github.com/alfatih2419/livetik-release/releases/download/v0.4.3/LiveTik-Interactive-update-0.4.3.zip\",\"sha256\":\"00252d95930fbfa256af5bb82dc2fbd6ef7eccf754cd0721ecc2182a303dc53d\",\"size\":1571155,\"notes\":\"\"},\"msg\":null,\"grace\":24}",
- "sig": "EnrMvgeWH_rAVK5zB2SpLsbMGvylwBH85Msz-DLF2O0p3suIoHdh4Uni54vPhJl7TabnT6I5kZo5beN0Bp46CA"
+ "data": "{\"k\":\"livetik-kendali\",\"seq\":5,\"at\":1794414821890,\"revoked\":[],\"min\":\"\",\"update\":{\"version\":\"0.4.4\",\"url\":\"https://github.com/alfatih2419/livetik-release/releases/download/v0.4.4/LiveTik-Interactive-update-0.4.4.zip\",\"sha256\":\"c8dde7b57801137ec732c9b977eb337cd37d99b99becd3e8aaec9c9f334656ae\",\"size\":1591145,\"notes\":\"\"},\"msg\":null,\"grace\":24}",
+ "sig": "27epBj5-gpl94zX8i0noVBBzeXMrIBbp5OGp34aLVRQzyQjTum_ChhqfEj4dC0MGvlbfXoT4mFnBaKo13mAhCw"
 }
