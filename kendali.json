@@ -1,4 +1,4 @@
 {
- "data": "{\"k\":\"livetik-kendali\",\"seq\":11,\"at\":1794551991163,\"revoked\":[],\"min\":\"\",\"update\":null,\"msg\":null,\"grace\":24}",
- "sig": "C_5DSSH_nagsNse9xcV7EytmSlFAk2OnvXpl2M7LwM07uSPCpl-QtOJe89ytz6ypTKN1gUyUCKhVriMDjLONAQ"
+ "data": "{\"k\":\"livetik-kendali\",\"seq\":12,\"at\":1794552125069,\"revoked\":[],\"min\":\"\",\"update\":{\"version\":\"0.4.7\",\"url\":\"https://github.com/alfatih2419/livetik-release/releases/download/v0.4.7/LiveTik-Interactive-update-0.4.7.zip\",\"sha256\":\"51dd28832ce6057e7c839c5bfc94776e6f464f1c940d3ee9fdfce0cd541c44d0\",\"size\":1617507,\"notes\":\"\"},\"msg\":null,\"grace\":24}",
+ "sig": "3oQL1jWDegr8nxiuly6UjS8Tixyx80TM5PiBtl76ZzIRZiV5Q9UOc8T62XBFkltHxEKZ0rjqEWy-eXV-wHZUCA"
 }
