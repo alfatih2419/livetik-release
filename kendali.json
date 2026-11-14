@@ -1,4 +1,4 @@
 {
- "data": "{\"k\":\"livetik-kendali\",\"seq\":24,\"at\":1794644428432,\"revoked\":[{\"id\":\"LT-0002\",\"why\":\"\"},{\"id\":\"LT-0001\",\"why\":\"\"},{\"id\":\"LT-0004\",\"why\":\"\"}],\"min\":\"\",\"update\":{\"version\":\"0.4.8\",\"url\":\"https://github.com/alfatih2419/livetik-release/releases/download/v0.4.8/LiveTik-Interactive-update-0.4.8.zip\",\"sha256\":\"1042a3c8330873c17d8326f64d5c97b3ea686bcb787a43031c47d236310a75c1\",\"size\":1658705,\"notes\":\"\"},\"msg\":null,\"grace\":24}",
- "sig": "GDsJ-e00LpSeX7HqxK-Yxjg66qriWxVeh_mEAmuK05SBov9WCOvt8fpqUQtj532XDRs1X4xZsX62V0xV-oJCCw"
+ "data": "{\"k\":\"livetik-kendali\",\"seq\":25,\"at\":1794673457386,\"revoked\":[{\"id\":\"LT-0002\",\"why\":\"\"},{\"id\":\"LT-0001\",\"why\":\"\"},{\"id\":\"LT-0004\",\"why\":\"\"}],\"min\":\"\",\"update\":{\"version\":\"0.4.9\",\"url\":\"https://github.com/alfatih2419/livetik-release/releases/download/v0.4.9/LiveTik-Interactive-update-0.4.9.zip\",\"sha256\":\"767e0c4b1f8b3d37696b815ba37b51e2c0c463defabc517198e1ee50489703c3\",\"size\":1670320,\"notes\":\"\"},\"msg\":null,\"grace\":24}",
+ "sig": "v_bmwjis9wx6GjFe3chUuY9284h5s4-hlVocSp8CIcpOB8AASQm3xYdgGKj6Z4Sgx6C7RwSgktVhMDufSGVwAw"
 }
